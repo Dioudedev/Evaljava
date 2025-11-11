@@ -4,4 +4,5 @@ Feuille1:
 2-Analyse de programmes:
 1- a, b, c.
 2- a, b, c. 
+4-	Programmation d’un jeu de dominos
 4- 1, 2, 3.
